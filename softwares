@@ -1,0 +1,75 @@
+# Programming languages
+python
+go
+ruby
+php
+nodejs
+deno
+bun
+
+# package managers
+uv
+pip
+
+# Shell
+oh-my-zsh
+
+# Database
+postgresql
+mysql
+mariadb
+mongodb
+couchdb
+
+# Caching
+redis
+vinyl
+valkey
+memcached
+
+# Servers
+nginx
+caddy
+apache
+traefik
+
+# Browsers
+firefox
+brave
+vivaldi
+opera
+chromium
+
+# Editors and IDE
+vscode
+zed
+qoder
+kiro
+antigravity
+cursor
+neovim
+
+# Virtualization and containers
+vagrant
+docker
+docker-desktop
+podman
+podman-desktop
+
+# Infrastructure Orchestration
+terraform
+opentofu
+ansible
+kubernates
+openshift
+nomad
+
+# Monitoring
+promethues
+zabbix
+nagios
+
+# CI/CD
+buildbot
+jenkins
+spinnaker
