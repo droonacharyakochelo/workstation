@@ -1,3 +1,9 @@
+# This is the list of softwares and every software should be in its own line
+# Use the # symbol in front of the line to comment out the softwares that you do not need to install now
+# Ansible builder will pass the uncommented line as a value for the role to install
+# This will install only the latest version of the softwares 
+
+
 # Programming languages
 python
 go
